@@ -1,0 +1,15 @@
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1079\1079\1079\obj\Debug\net6.0\1079.csproj.AssemblyReference.cache
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1079\1079\1079\obj\Debug\net6.0\1079.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1079\1079\1079\obj\Debug\net6.0\1079.AssemblyInfoInputs.cache
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1079\1079\1079\obj\Debug\net6.0\1079.AssemblyInfo.cs
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1079\1079\1079\obj\Debug\net6.0\1079.csproj.CoreCompileInputs.cache
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1079\1079\1079\bin\Debug\net6.0\1079.exe
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1079\1079\1079\bin\Debug\net6.0\1079.deps.json
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1079\1079\1079\bin\Debug\net6.0\1079.runtimeconfig.json
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1079\1079\1079\bin\Debug\net6.0\1079.dll
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1079\1079\1079\bin\Debug\net6.0\1079.pdb
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1079\1079\1079\obj\Debug\net6.0\1079.dll
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1079\1079\1079\obj\Debug\net6.0\refint\1079.dll
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1079\1079\1079\obj\Debug\net6.0\1079.pdb
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1079\1079\1079\obj\Debug\net6.0\1079.genruntimeconfig.cache
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1079\1079\1079\obj\Debug\net6.0\ref\1079.dll

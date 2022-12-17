@@ -1,0 +1,15 @@
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1049\1049 opção2\1049 opção2\bin\Debug\net6.0\1049 opção2.exe
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1049\1049 opção2\1049 opção2\bin\Debug\net6.0\1049 opção2.deps.json
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1049\1049 opção2\1049 opção2\bin\Debug\net6.0\1049 opção2.runtimeconfig.json
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1049\1049 opção2\1049 opção2\bin\Debug\net6.0\1049 opção2.dll
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1049\1049 opção2\1049 opção2\bin\Debug\net6.0\1049 opção2.pdb
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1049\1049 opção2\1049 opção2\obj\Debug\net6.0\1049 opção2.csproj.AssemblyReference.cache
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1049\1049 opção2\1049 opção2\obj\Debug\net6.0\1049 opção2.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1049\1049 opção2\1049 opção2\obj\Debug\net6.0\1049 opção2.AssemblyInfoInputs.cache
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1049\1049 opção2\1049 opção2\obj\Debug\net6.0\1049 opção2.AssemblyInfo.cs
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1049\1049 opção2\1049 opção2\obj\Debug\net6.0\1049 opção2.csproj.CoreCompileInputs.cache
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1049\1049 opção2\1049 opção2\obj\Debug\net6.0\1049 opção2.dll
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1049\1049 opção2\1049 opção2\obj\Debug\net6.0\refint\1049 opção2.dll
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1049\1049 opção2\1049 opção2\obj\Debug\net6.0\1049 opção2.pdb
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1049\1049 opção2\1049 opção2\obj\Debug\net6.0\1049 opção2.genruntimeconfig.cache
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1049\1049 opção2\1049 opção2\obj\Debug\net6.0\ref\1049 opção2.dll

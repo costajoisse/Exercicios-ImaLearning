@@ -1,0 +1,15 @@
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1117\1117\1117\bin\Debug\net6.0\1117.exe
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1117\1117\1117\bin\Debug\net6.0\1117.deps.json
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1117\1117\1117\bin\Debug\net6.0\1117.runtimeconfig.json
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1117\1117\1117\bin\Debug\net6.0\1117.dll
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1117\1117\1117\bin\Debug\net6.0\1117.pdb
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1117\1117\1117\obj\Debug\net6.0\1117.csproj.AssemblyReference.cache
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1117\1117\1117\obj\Debug\net6.0\1117.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1117\1117\1117\obj\Debug\net6.0\1117.AssemblyInfoInputs.cache
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1117\1117\1117\obj\Debug\net6.0\1117.AssemblyInfo.cs
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1117\1117\1117\obj\Debug\net6.0\1117.csproj.CoreCompileInputs.cache
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1117\1117\1117\obj\Debug\net6.0\1117.dll
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1117\1117\1117\obj\Debug\net6.0\refint\1117.dll
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1117\1117\1117\obj\Debug\net6.0\1117.pdb
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1117\1117\1117\obj\Debug\net6.0\1117.genruntimeconfig.cache
+C:\DEV\IMÃ LEARNING\Beecrowd C#\1117\1117\1117\obj\Debug\net6.0\ref\1117.dll
